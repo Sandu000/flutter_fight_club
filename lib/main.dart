@@ -63,51 +63,6 @@ class _MyHomePageState extends State<MyHomePage> {
               SizedBox(height: 10),
             ],
           ),
-          Row(
-            children: [
-              SizedBox(width: 16),
-              Expanded(child: Center(child: Text("1"))),
-              SizedBox(width: 12),
-              Expanded(child: Center(child: Text("1"))),
-              SizedBox(width: 16),
-            ],
-          ),
-          Row(
-            children: [
-              SizedBox(width: 16),
-              Expanded(child: Center(child: Text("1"))),
-              SizedBox(width: 12),
-              Expanded(child: Center(child: Text("1"))),
-              SizedBox(width: 16),
-            ],
-          ),
-          Row(
-            children: [
-              SizedBox(width: 16),
-              Expanded(child: Center(child: Text("1"))),
-              SizedBox(width: 12),
-              Expanded(child: Center(child: Text("1"))),
-              SizedBox(width: 16),
-            ],
-          ),
-          Row(
-            children: [
-              SizedBox(width: 16),
-              Expanded(child: Center(child: Text("1"))),
-              SizedBox(width: 12),
-              Expanded(child: Center(child: Text("1"))),
-              SizedBox(width: 16),
-            ],
-          ),
-          Row(
-            children: [
-              SizedBox(width: 16),
-              Expanded(child: Center(child: Text("1"))),
-              SizedBox(width: 12),
-              Expanded(child: Center(child: Text("1"))),
-              SizedBox(width: 16),
-            ],
-          ),
           Expanded(child: SizedBox()),
           Row(
             mainAxisAlignment: MainAxisAlignment.center,
