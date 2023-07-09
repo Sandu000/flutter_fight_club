@@ -3,6 +3,7 @@ import 'dart:ui';
 import 'package:collection/collection.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_fight_club/main.dart';
+import 'package:flutter_fight_club/pages/fight_page.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 ///
